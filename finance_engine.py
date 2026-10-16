@@ -21,7 +21,8 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-DATA = Path(__file__).resolve().parent / "data"
+_HERE = Path(__file__).resolve().parent
+DATA = _HERE / "data" if (_HERE / "data").exists() else _HERE
 SHARES_NOW = 930.06   # crore shares
 
 
