@@ -1,0 +1,16 @@
+key,value,description,source
+risk_free_pct,7.39,"India 10-year G-sec yield, 15-Oct-2026",https://tradingeconomics.com/india/government-bond-yield
+india_erp_pct,7.08,"India total equity risk premium (mature 4.23% + country 2.85%), Damodaran Jan-2026",https://pages.stern.nyu.edu/adamodar/New_Home_Page/datafile/ctryprem.html
+repo_rate_pct,5.5,RBI repo after 25 bp hike (Oct-2026); market pricing further hikes,https://tradingeconomics.com/india/government-bond-yield
+aaa_psu_spread_pct,0.45,Assumed spread of AAA PSU bonds over G-sec (editable),Assumption
+tax_rate_pct,25.17,New tax regime rate (company moving to new regime per FY26 note 9),"FY26 results filing, note 9"
+share_price,250.0,NSE close 15-Oct-2026,https://www.screener.in/company/POWERGRID/consolidated/
+shares_cr,930.06,"Equity shares outstanding (₹9,300.60 Cr / ₹10 FV)",FY26 results filing
+govt_holding_pct,51.34,"Promoter (Government of India) holding, Jun-2026",https://www.screener.in/company/POWERGRID/consolidated/
+cerc_roe_existing_pct,15.5,CERC base RoE on regulated (RTM) transmission assets,CERC Tariff Regulations (verify final 2024-29 text)
+cerc_roe_new_pct,15.0,CERC base RoE proposed for new transmission projects from FY25 (draft 2024-29),https://powerline.net.in/2024/02/05/roe-adjustments-key-highlights-of-cercs-draft-tariff-regulations/
+normative_de,2.333,CERC normative debt:equity 70:30,CERC Tariff Regulations
+capex_guidance_fy27,37000.0,FY27 capex guidance (₹ Cr),https://mailcontent.icicidirect.com/mailcontent/idirect_powergrid_q1fy27.pdf
+capitalisation_guidance_fy27,30000.0,FY27 capitalisation guidance (₹ Cr),https://mailcontent.icicidirect.com/mailcontent/idirect_powergrid_q1fy27.pdf
+work_in_hand,175000.0,"Works in hand ~₹1.75 lakh Cr (83% TBCB, ~14% RTM)",https://mailcontent.icicidirect.com/mailcontent/idirect_powergrid_q1fy27.pdf
+fy26_capex_reported,40000.0,"FY26 capex ~₹40,000 Cr (above guidance)",https://psuwatch.com/amp/story/newsupdates/power-grid-fy26-profit-rises-3-percent-as-capex-surges-past-guidance-2
